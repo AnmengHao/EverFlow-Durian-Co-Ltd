@@ -11,4 +11,4 @@ This repository includes multimedia content showcasing the achievements and acti
 
 #### Official Website:
 We also provide access to our official website for those who may not have access to the WeChat Applet:  
-[Visit Our Official Website]([http://www.liumaomao.cn/]) 
+[Visit Our Official Website](http://www.liumaomao.cn/) 
