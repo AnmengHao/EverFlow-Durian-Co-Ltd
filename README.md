@@ -8,7 +8,7 @@ EverFlow Durian Trading Co., Ltd. was launched with the mission of promoting inn
 - Successfully established partnerships with three orchards and factories in Malaysia, reducing operational costs by 15%.
 - Introduced six new durian dessert varieties to the market.
 - Generated over 3,000 orders and built a community of 500+ durian enthusiasts, supporting a green circular economy.
-- Utilized **WeChat Applet** as the primary selling platform for increased engagement and direct sales. 
+- Utilized WeChat Applet as the primary selling platform for increased engagement and direct sales. 
 
 ### Official Website:
 We also provide access to our official website for those who may not have access to the WeChat Applet:  
