@@ -3,7 +3,7 @@ This repository includes multimedia content showcasing the achievements and acti
 
 ## EverFlow Durian Trading Co., Ltd.
 
-EverFlow Durian Trading Co., Ltd. was launched with the mission of promoting innovative and sustainable practices...
+EverFlow Durian Trading Co., Ltd. was launched with the mission of promoting innovative and sustainable practices in the overseas durian market, following the 2019 Malaysia frozen durian export agreement.
 
 
 ### Key Achievements:
