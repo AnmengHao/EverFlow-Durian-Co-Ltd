@@ -11,6 +11,7 @@ EverFlow Durian Trading Co., Ltd. was founded with the mission of bringing authe
 - Utilized WeChat Applet as the primary selling platform for increased engagement and direct sales. 
 - Generated over **3,000** orders and built a community of **500+** durian enthusiasts, supporting a green circular economy.
 
-### Official Website:
-We also provide access to our official website for those who may not have access to the WeChat Applet:  
-[Visit Our Official Website](http://www.liumaomao.cn/) 
+## Official Website:
+For further details about our company and offerings, we invite you to explore our official website:  
+**[Visit Our Official Website](http://www.liumaomao.cn/)**
+
