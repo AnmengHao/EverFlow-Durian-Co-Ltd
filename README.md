@@ -19,3 +19,6 @@ For further details about our company and offerings, we invite you to explore ou
 Our WeChat Applet serves as a dynamic ordering platform, allowing for seamless engagement and direct sales. For access to our WeChat Applet, please follow this link:  
 **[Access Our WeChat Applet](https://wxaurl.cn/QSqatJosQCi)**
 
+*Please note that our WeChat Applet is only accessible within the WeChat platform due to technical limitations and system compatibility and cannot be accessed via standard web browsers.*
+For those unable to access WeChat, we have prepared a demonstration video to showcase the functionality of the applet.  
+[Watch the Demonstration Video](#)
