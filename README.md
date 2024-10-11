@@ -22,4 +22,4 @@ Our WeChat Applet serves as a dynamic ordering platform, allowing for seamless e
 *Please note that our WeChat Applet is only accessible within the WeChat platform due to technical limitations and system compatibility. It cannot be accessed via standard web browsers.*
 
 For those unable to access WeChat, we have prepared a demonstration video to showcase the functionality of the applet.  
-**[Watch the Demonstration Video](#)**
+**[Watch the Demonstration Video](https://github.com/AnmengHao/EverFlow-Durian-Co-Ltd/blob/604c4e2a320fe7033588ab96bd10bf6d56e9036c/Wechat%20Applet.mp4)**
