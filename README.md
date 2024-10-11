@@ -1,5 +1,5 @@
 # EverFlow Durian Trading Co., Ltd.
-This repository includes multimedia content showcasing the achievements and activities of **EverFlow Durian Trading Co., Ltd.,** founded and led by **Anmeng Hao**. It features an official website and a unique WeChat applet ordering system.
+This repository includes multimedia content showcasing the achievements and activities of **EverFlow Durian Trading Co., Ltd.,** founded and led by **Anmeng Hao**. It features an **official website** and **a unique WeChat applet ordering system**.
 
 EverFlow Durian Trading Co., Ltd. was launched with the mission of promoting innovative and sustainable practices in the overseas durian market, following the 2019 Malaysia frozen durian export agreement.
 
