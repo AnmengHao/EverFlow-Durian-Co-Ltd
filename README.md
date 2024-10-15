@@ -15,7 +15,7 @@ Our WeChat Applet serves as a dynamic ordering platform, allowing for seamless e
 
 For those unable to access WeChat, we have prepared a demonstration video and screenshots to showcase the functionality of the applet.  
 **[Watch the Demonstration Video](http://file.liumaomao.cn/miniprogram.mp4)**
-**[![EverFlow Durian Wechat Applet](https://github.com/AnmengHao/EverFlow-Durian-Co-Ltd/blob/8d8abbc3504dda6b3b6c3ca9d91da9920f86ab60/Wechat%20Applet%201.jpg)]**
+**[EverFlow Durian Wechat Applet](https://github.com/AnmengHao/EverFlow-Durian-Co-Ltd/blob/8d8abbc3504dda6b3b6c3ca9d91da9920f86ab60/Wechat%20Applet%201.jpg)]**
 
 ## Key Achievements:
 - Successfully established partnerships with **three** orchards and factories in Malaysia, reducing operational costs by **15%**.
