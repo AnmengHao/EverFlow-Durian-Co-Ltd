@@ -27,4 +27,4 @@ For those unable to access WeChat, we have prepared a demonstration video and sc
 - Promoted **sustainable practices** in Malaysian durian cultivation, including organic farming methods, enhancing biodiversity, and improving soil health and water retention for long-term benefits.
 - Introduced **six** new durian dessert varieties and seasonal specialties to the market.
 - Utilized WeChat Applet as the primary selling platform for increased engagement and direct sales. 
-- Generated over **10,000** orders and built a community of **2000+** durian enthusiasts, supporting a green circular economy.
+- Generated over **10,000** orders and built a community of over **2000** durian enthusiasts, supporting a green circular economy.
